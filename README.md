@@ -2,6 +2,8 @@
 Day-01
 # Drum Kit Web App Documentation
 
+Hostin link: https://asifekhlaque.github.io/Drum_kit/
+
 This documentation provides an overview and explanation of the Drum Kit web app, along with the HTML, CSS, and JavaScript code used to create it. The Drum Kit is a simple web application that allows users to play drum sounds by clicking on different buttons.
 
 ## Table of Contents
