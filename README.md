@@ -10,3 +10,7 @@ Hosting link: https://asifekhlaque.github.io/clock/
 Day-03
 # Color_Generator
 Hosting link: https://asifekhlaque.github.io/color_generator/
+
+Day-04
+# Password_Genertor
+Hosting link: https://asifekhlaque.github.io/password_genertor/
