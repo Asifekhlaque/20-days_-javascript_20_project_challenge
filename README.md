@@ -20,3 +20,6 @@ Day-05
 Hosting link: https://asifekhlaque.github.io/encryption_and_decryption/
 Day-06
 # GitHub profile
+
+# Password_checker
+Github link: https://asifekhlaque.github.io/password_checker/
