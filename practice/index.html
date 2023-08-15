@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Interest</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="/practice/icon.png">
+</head>
+<body>
+    <div class="m-contanter">
+        <div class="m-card">
+            <h1>
+                Simple interest calculator
+            </h1>
+            <label>Principle Amount</label>
+            <input type="number" placeholder="Enter Principle Amount" id="principle">
+            <label>Rate of Interest</label>
+            <input type="number" placeholder="Enter Rate of Interest" id="rate">
+            <label>Time</label>
+            <input type="number" placeholder="Enter Time" id="time">
+            <button onclick="cal()" class="btn">Click</button>
+            <button onclick="reset()" class="btn2">Reset</button>
+            <p>Simple interest = <span id="result"></span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
