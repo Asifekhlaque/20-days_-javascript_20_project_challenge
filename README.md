@@ -29,3 +29,8 @@ Github link: https://asifekhlaque.github.io/password_checker/
 
 Day-09
 # Simple interst Calculater
+
+
+Day-10
+# Emoji Generater
+
