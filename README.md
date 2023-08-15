@@ -27,13 +27,13 @@ Day-07
 # Password_checker
 Github link: https://asifekhlaque.github.io/password_checker/
 
-Day-09
+Day-08
 # Simple interst Calculater
 
 
-Day-10
+Day-09
 # Emoji Generater
 
 
-Day-11
+Day-10
 # QR Code Generater
