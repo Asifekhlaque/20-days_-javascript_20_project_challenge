@@ -34,3 +34,6 @@ Day-09
 Day-10
 # Emoji Generater
 
+
+Day-11
+# QR Code Generater
