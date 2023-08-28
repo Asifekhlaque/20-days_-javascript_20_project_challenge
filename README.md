@@ -1,4 +1,4 @@
-# 20-days_-javascript_20_project_challenge
+# 20-days_20_project_challenge
 Day-01
 # Drum Kit
 Hosting link: https://asifekhlaque.github.io/Drum_kit/
