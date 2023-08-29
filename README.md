@@ -57,3 +57,12 @@ Day-15
 
 Day-16
 # Text Finder
+
+Day-17
+# Darkmode
+
+Day-18
+# Text to speech
+
+Day-19
+# Voice Copy AI
