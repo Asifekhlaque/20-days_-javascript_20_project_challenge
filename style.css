@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card{
+    width: 400px;
+    border: solid 2px black;
+    border-radius: 10px;
+    padding: 10px;
+}
+img{
+    width: 400px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+button:active{
+    background-color: rgb(110, 110, 110);
+    color: black;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+.dark-mode .card{
+    border-color: #fff;
+}
+.dark-mode button{
+    background-color: #fff;
+    color: black;
+}
+.dark-mode h1{
+    color: #ff0000;
+}
