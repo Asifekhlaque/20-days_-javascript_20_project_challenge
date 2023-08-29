@@ -1,40 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(0, 0, 32);
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+.text-area{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     height: 100vh;
 }
-.card{
-    width: 400px;
-    border: solid 2px black;
-    border-radius: 10px;
-    padding: 10px;
-}
-img{
-    width: 400px;
+textarea{
+    width: 800px;
+    height: 400px;
+    border: 2px solid rgb(255, 255, 255);
+    font-size: 20px;
 }
 button{
+    margin-top: 20px;
+    width: 50%;
     padding: 10px;
-    border-radius: 10px;
-    border: none;
-    background-color: rgb(0, 0, 0);
-    color: white;
+    font-size: 20px;
+    border: 2px rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
 }
 button:active{
-    background-color: rgb(110, 110, 110);
-    color: black;
-}
-.dark-mode{
-    background-color: black;
-    color: white;
-}
-.dark-mode .card{
-    border-color: #fff;
-}
-.dark-mode button{
-    background-color: #fff;
-    color: black;
-}
-.dark-mode h1{
-    color: #ff0000;
+    background-color: rgb(108, 0, 0);
+    color: rgb(255, 255, 255);
 }
